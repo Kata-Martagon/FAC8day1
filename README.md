@@ -1,5 +1,7 @@
 # FAC8 day 1 task  
 
+[![Join the chat at https://gitter.im/Kata-Martagon/FAC8day1](https://badges.gitter.im/Kata-Martagon/FAC8day1.svg)](https://gitter.im/Kata-Martagon/FAC8day1?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## What  
 
 Our friend and FAC5 alumnus @jackpandas is a smart guy - we call him Dr Jack, but his students call him Dr McDonald. Or just Jack.  
